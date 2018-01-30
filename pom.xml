@@ -56,11 +56,11 @@
         </repository-->
         <snapshotRepository>
             <id>repo.eclipse.org</id>
-            <url>https://oss.sonatype.org/content/repositories/snapshots</url>
+            <url>https://repo.eclipse.org/content/repositories/dummy-ee4j/</url>
         </snapshotRepository>
         <repository>
             <id>repo.eclipse.org</id>
-            <url>https://oss.sonatype.org/service/local/staging/deploy/maven2/</url>
+            <url>https://repo.eclipse.org/content/repositories/dummy-ee4j/</url>
         </repository>
     </distributionManagement>
 
