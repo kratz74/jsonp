@@ -39,9 +39,9 @@
     <url>https://javaee.github.io/jsonp</url>
 
     <scm>
-        <connection>scm:git:git://github.com/eclipse-ee4j/jsonp.git</connection>
-        <developerConnection>scm:git:git@github.com:eclipse-ee4j/jsonp.git</developerConnection>
-        <url>https://github.com/eclipse-ee4j/jsonp</url>
+        <connection>scm:git:git://github.com/kratz74/jsonp.git</connection>
+        <developerConnection>scm:git:git@github.com:kratz74/jsonp.git</developerConnection>
+        <url>https://github.com/kratz74/jsonp</url>
         <tag>HEAD</tag>
     </scm>
 
